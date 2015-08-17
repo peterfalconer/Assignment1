@@ -1,0 +1,60 @@
+p {
+    color: #000000;
+}
+
+a {
+    color: #0000FF;
+}
+ul li {
+	color: green;
+	font-style: italic;
+}
+h1 {
+	text-align: center;
+	color: #0000ff;
+	font-family: "georgia"
+	font-size: 40px;
+}
+h2 {
+    background-color: #0000FF;
+	color: #FF12AA;
+}
+h4 {
+	font-family: "georgia"
+	font-size: 10px;
+}
+
+img {
+	border: 2px solid #fa2378;
+	border-radius: 20;
+	style="vertical-align:text-top;"
+}
+#portrait {
+	text-align: center;
+	padding:5px;
+}
+
+#Education li {
+    list-style-type: none;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+#Projects p {
+    font-style: normal;
+}
+#Intro {
+    margin-left: 25%;
+    width: 50%;
+    height: 200px;
+}
+#sidebar
+{
+    float: right;
+    width: 210px;
+    background-color: white
+    min-height: 10%;
+    position: fixed;
+    left: 1100px;
+    top: 150px;
+}
